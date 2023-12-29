@@ -17,6 +17,9 @@ Welcome to the information hub for the Avnet RASynBoard.  RASynBoard is a low-co
 - [RASynBoard Online support](#on-line-support)
 - [RASynBoard HW documentation](#hardware-documentation)
 - [Hands-on self-paced Labs](#self-paced-learning-labs)
+- [RASynBoard Accessories](#rasynboard-accessories)
+- [RASynBoard 3D Models](#3d-models)
+- [Wireless Certification Docs](#wireless-certification-documents)
 
 ## What is the Avnet RASynBoard?
 
@@ -42,7 +45,7 @@ The IO board (50mm x 30mm) is included for implementation of a compact two board
 
 | Project | Description |
 | -- | -- |
-| [RASynBoard Out of Box Demo](https://github.com/Avnet/RASynBoard-Out-of-Box-Demo) | Example application intended as a starting point for custom applications.  The repo includes **extensive documentation**, tested releases, feature configuration using a configuration file, and supports Avnet's IoTConnect on AWS and AWS IoT Core cloud connectivity options.  The repo is actively maintained and continually enhanced with additional feature development.  Additionally, the application can be used for custom ML model development and testing using ML models generated on [Edge Impulse Studio](https://edgeimpulse.com/) 
+| [RASynBoard Out of Box Demo](https://github.com/Avnet/RASynBoard-Out-of-Box-Demo) | Example application intended as a starting point for custom applications.  The repo includes **extensive documentation**, tested releases, feature configuration using a configuration file, and supports Avnet's IoTConnect on AWS and AWS IoT Core cloud connectivity options.  The repo is actively maintained and continually enhanced with additional feature development.  Additionally, the application can be used for custom ML model development and testing using ML models generated on [Edge Impulse Studio](https://edgeimpulse.com/).  This repo also includes a video series to help the user get started and leverage the repo. |
 | [RASynBoard Out of Box Demo V1.4.0 W/Temperature and Humidity Sensor](https://github.com/Avnet/RASynBoard-Out-of-Box-Demo/tree/AddTempHumiditySensor) | Example application with additional support for a Renesas HS300X Temperature and Humidity sensor.  See the [Hackster blog](https://www.hackster.io/bwilless/add-a-temperature-humidity-sensor-to-the-avnet-rasynboard-73ce25) for details on this example implementation.|
 | [RASynBoard Pump Analytics Demo](https://github.com/Avnet/RASynBoard-Out-of-Box-Demo/tree/pump_analytics) | Example application based on the RASynBoard OOB application that implements a ML model to track pump performance using the built in digital microphone.  See the [Hackster blog](https://www.hackster.io/monica/build-a-dashboard-in-iotconnect-to-monitor-pump-status-e62ed2) for additional details. |
 | [RASynBoard Python Demo UI](https://github.com/Avnet/Rasynboard_ew23_demo_GUI_qt) | Python application developed for trade show demos.  Watch the [demo video](http://avnet.me/RASynBoard-OOB-Demo) for more details. The repo includes a windows executable that allows the user to run the demo without having to install any Python dependencies |
@@ -59,10 +62,12 @@ The IO board (50mm x 30mm) is included for implementation of a compact two board
 
 ## Hardware Documentation
 ### Product Brief
-- [Product Brief (includes block diagrams)](http://avnet.me/rasynboard-pb)
+[Product Brief](http://avnet.me/rasynboard-pb)
+- Includes block diagrams
 
 ### User Guide
-- [User Guide](http://avnet.me/rasynboard-ug)
+[Development Guide](http://avnet.me/rasynboard-ug)
+- Includes details on all the hardware interfaces and how they pin out to the RA6M4 and NDP120
 
 ## On-Line Support
 
@@ -76,5 +81,21 @@ If you require support for the RASynBoard, please post your questions on the [RA
 | [Lab 1](http://avnet.me/ML-Workshop-Lab1) | Exercise the Avnet RASynBoard Out of Box example application |
 | [Lab 2](http://avnet.me/ML-Workshop-Lab2) | Capture training data from the RASynBoard using the Edge Impulse CLI and review the ML model development process in Edge Impulse.  Deploy the Edge Impulse model on your RASynBoard. |
 
+## RASynBoard Accessories
 
+- [Lithium Ion Batteries to power the core board](https://tinycircuits.com/collections/lipos)
+- [3d Printable Enclosures](http://avnet.me/RASynEnclosures)
+
+<p align="center">
+<br />
+    <img src=./assets/images/Enclosures.jpg>
+<br />
+
+## 3D models
+
+[3D model files](https://avtinc.sharepoint.com/:f:/t/ET-Downloads/Eq0yaCf3sjJEn-7C-sRmM_EBJKEgCCePUA3-fe5v_bKpRw?e=U4FyXB)
+
+## Wireless Certification Documents
+
+[RASynBoard Certification Documents](https://avtinc.sharepoint.com/:f:/t/ET-Downloads/ErrZqtdTMqtDr3pPJW7dJ-oBj3NIRo1yAmIChJJjOQynzw?e=b4ZjSV)
 
