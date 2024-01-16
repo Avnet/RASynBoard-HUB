@@ -78,13 +78,13 @@ If you require support for the RASynBoard, please post your questions on the [RA
 | Title/Link | Description |
 | -- | -- |
 | [Lab 0](http://avnet.me/ML-Workshop-Lab0) | Details on installing the tools and signing up for free accounts required to complete the self paced learning labs |
-| [Lab 1](http://avnet.me/ML-Workshop-Lab1) | Exercise the Avnet RASynBoard Out of Box example application |
-| [Lab 2](http://avnet.me/ML-Workshop-Lab2) | Capture training data from the RASynBoard using the Edge Impulse CLI and review the ML model development process in Edge Impulse.  Deploy the Edge Impulse model on your RASynBoard. |
+| [Lab 1](http://avnet.me/ML-Workshop-Lab1) | Capture training data from the RASynBoard using the Edge Impulse CLI and review the ML model development process in Edge Impulse.  Deploy the Edge Impulse model on your RASynBoard. |
+| [Lab 2](http://avnet.me/ML-Workshop-Lab2) | Exercise the Avnet RASynBoard Out of Box example application |
 
 ## RASynBoard Accessories
 
 - [Lithium Ion Batteries to power the core board](https://tinycircuits.com/collections/lipos)
-- [3d Printable Enclosures](http://avnet.me/RASynEnclosures)
+- [3D Printable Enclosures](http://avnet.me/RASynEnclosures)
 
 <p align="center">
 <br />
