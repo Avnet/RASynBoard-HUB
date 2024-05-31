@@ -59,6 +59,9 @@ The IO board (50mm x 30mm) is included for implementation of a compact two board
 | [Monitor Pump Status with RASynBoard](https://www.hackster.io/monica/monitor-pump-status-with-rasynboard-311ad1) | Predict pump clogs and failures using the RASynBoard's built-in microphone + Edge Impulse | Intermediate |
 | [Build a dashboard in IoTConnect to monitor pump status](https://www.hackster.io/monica/build-a-dashboard-in-iotconnect-to-monitor-pump-status-e62ed2) | This project shows how to create a cloud dashboard to monitor pump analytics over time | Intermediate |
 | [Add a Temperature/Humidity Sensor to the Avnet RASynBoard](https://www.hackster.io/bwilless/add-a-temperature-humidity-sensor-to-the-avnet-rasynboard-73ce25) | Extend the number of use cases of the RASynBoard by adding additional sensors | Beginner |
+| [Prototyping Predictive Maintenance with RASynBoard](https://www.edgeimpulse.com/blog/pump-up-the-predictions) | Edge Impulse blog reviews how to apply ML to predictive maintenance deployments | Beginner |
+| [Determining Compressor State with Audio Classification](https://docs.edgeimpulse.com/experts/audio-projects/compressor-audio-classification-rasynboard) | Edge Impulse blog entry that details how to build an audio classification model to detect pump performance | Intermediate |
+
 
 ## Hardware Documentation
 ### Product Brief
