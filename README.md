@@ -61,7 +61,7 @@ The IO board (50mm x 30mm) is included for implementation of a compact two board
 | [Add a Temperature/Humidity Sensor to the Avnet RASynBoard](https://www.hackster.io/bwilless/add-a-temperature-humidity-sensor-to-the-avnet-rasynboard-73ce25) | Extend the number of use cases of the RASynBoard by adding additional sensors | Beginner |
 | [Prototyping Predictive Maintenance with RASynBoard](https://www.edgeimpulse.com/blog/pump-up-the-predictions) | Edge Impulse blog reviews how to apply ML to predictive maintenance deployments | Beginner |
 | [Determining Compressor State with Audio Classification](https://docs.edgeimpulse.com/experts/audio-projects/compressor-audio-classification-rasynboard) | Edge Impulse blog entry that details how to build an audio classification model to detect pump performance | Intermediate |
-
+| [The RASynPuck Demo, what can you build with the RASynBoard?](https://www.hackster.io/bwilless/the-rasynpuck-demo-what-can-you-build-with-the-rasynboard-bfd912) | Blog shows an example of customizing the RASynBoard Out-of-Box application | Intermediate |
 
 ## Hardware Documentation
 ### Product Brief
@@ -80,9 +80,9 @@ If you require support for the RASynBoard, please post your questions on the [RA
 
 | Title/Link | Description |
 | -- | -- |
-| [Lab 0](http://avnet.me/ML-Workshop-Lab0) | Details on installing the tools and signing up for free accounts required to complete the self paced learning labs |
-| [Lab 1](http://avnet.me/ML-Workshop-Lab1) | Capture training data from the RASynBoard using the Edge Impulse CLI and review the ML model development process in Edge Impulse.  Deploy the Edge Impulse model on your RASynBoard. |
-| [Lab 2](http://avnet.me/ML-Workshop-Lab2) | Exercise the Avnet RASynBoard Out of Box example application |
+| [Lab 0](http://avnet.me/ML-WorkshopV2-Lab0) | Details on installing the tools and signing up for free accounts required to complete the self paced learning labs |
+| [Lab 1](http://avnet.me/ML-WorkshopV2-Lab1) | Capture training data from the RASynBoard, review the ML model development process in Edge Impulse.  Deploy the Edge Impulse model on your RASynBoard. |
+| [Lab 2](http://avnet.me/ML-WorkshopV2-Lab2) | Exercise the Avnet RASynBoard Out of Box example application |
 
 ## RASynBoard Accessories
 
