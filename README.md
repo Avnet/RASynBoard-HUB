@@ -76,6 +76,13 @@ The IO board (50mm x 30mm) is included for implementation of a compact two board
 
 If you require support for the RASynBoard, please post your questions on the [RASynBoard on-line support forum](http://avnet.me/rasynboard-forum).
 
+## RASynBoard Demo Videos
+
+| Title/Link | Description |
+| -- | -- |
+| [RASynPuck Demo](https://avtinc.sharepoint.com/:v:/t/ET-Downloads/EeQxMljjUxVAmgrCN4ATaxMB1fLvUOsVzin01hO9zRmPbQ?e=wPVb6B) | The RASynPuck demo that uses IMU data to detect different puck movements |
+| [RASynPump Demo](https://avtinc.sharepoint.com/:v:/t/ET-Downloads/EZz1QF1TF8FGu_y942ts4y8BHwkxmZRcPFSi9AeotIliRw?e=L4RAb0) | The RASynPump demo that uses audio to detect different pump states |
+
 ## Self-Paced Learning Labs
 
 | Title/Link | Description |
